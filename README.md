@@ -4,6 +4,8 @@ This is a simple program that downloads audio from YouTube videos.
 There are a couple of fields for metadata (title, artist, language, etc.) that can be filled in.
 The program will create an mp3 file at a chosen location with the filled in title and artist fields as filename.
 
+![YTDL Logo](https://github.com/user-attachments/assets/704045d4-5181-46b8-9c9c-0d751701d1c9)
+
 ## How to Use
 
 1. Find a YouTube video that you like and copy the link.
